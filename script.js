@@ -464,22 +464,22 @@ document.addEventListener("DOMContentLoaded", () => {
        PLACEHOLDER PROJECT LINKS
     ===================================================== */
 
-    placeholderLinks.forEach(link => {
+    // placeholderLinks.forEach(link => {
 
-        link.addEventListener(
-            "click",
-            event => {
+    //     link.addEventListener(
+    //         "click",
+    //         event => {
 
-                event.preventDefault();
+    //             event.preventDefault();
 
-                showToast(
-                    "Live Demo link will be added here."
-                );
+    //             showToast(
+    //                 "Live Demo link will be added here."
+    //             );
 
-            }
-        );
+    //         }
+    //     );
 
-    });
+    // });
 
 
     /* =====================================================
